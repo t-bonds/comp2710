@@ -1,0 +1,5 @@
+Brady      5000
+Tanner     4000
+Alan       3000
+Benji      2000
+Cameron    1000

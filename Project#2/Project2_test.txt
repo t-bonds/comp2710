@@ -1,0 +1,685 @@
+ Test 1: Login
+    	Case 1.1 - Correct User Name & Password
+    
+    ******************************************************
+       Please Login to Access the Teller Terminal System  
+    ******************************************************
+    
+    Please enter your User Name: admin
+    
+    Please enter your Password: 0000
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+       Test 1: Login
+    	Case 1.2 - Incorrect User Name or Password
+    
+    ******************************************************
+       Please Login to Access the Teller Terminal System  
+    ******************************************************
+    
+    Please enter your User Name: admin
+    
+    Please enter your Password: 1111
+    
+    
+    Your User Name or Password is incorrect.
+    	Please Try Again.
+    
+    
+    
+    ******************************************************
+       Please Login to Access the Teller Terminal System  
+    ******************************************************
+    
+    Please enter your User Name: 
+    
+    Test 2: addBranch
+    	Case 2.1 - Add Branch Staff Member.
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 2
+    Please enter your User Name: tjb0057
+    
+    Please enter your Password: 1234
+    
+    
+    Press 1 if the New User is a System Administrator.
+    Press 2 if the New User is a Branch Staff Member.
+    	Please Select an Option: 1
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option: 1
+    New Branch Staff Member Confirmed.
+    User Name: tjb0057
+    	Role: System Administrator
+    Press any key to continue...
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+        Test 2: addBranch
+    	Case 2.1 - Add Branch Staff Member.
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 2
+    Please enter your User Name: tjb0057
+    
+    Please enter your Password: 2345
+    
+    
+    Press 1 if the New User is a System Administrator.
+    Press 2 if the New User is a Branch Staff Member.
+    	Please Select an Option: 1
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option: 1
+    New Branch Staff Member Confirmed.
+    User Name: tjb0057
+    	Role: System Administrator
+    Press any key to continue...
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+    Test 2: addBranch
+    	Case 2.3 - Cancel Changes.
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 2
+    Please enter your User Name: tjb0057
+    
+    Please enter your Password: 1234
+    
+    
+    Press 1 if the New User is a System Administrator.
+    Press 2 if the New User is a Branch Staff Member.
+    	Please Select an Option: 1
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option: 2
+    
+    
+    Action Cancelled.
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+    Test 3: deleteBranch
+    	Case 2.1 - Delete Branch Staff Member.
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 3
+    
+    
+    User Deletion: Please enter the user you wish to delete
+    1: admin
+    1
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option: 1
+    
+    
+    User Deleted.
+    Press any key to continue...
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+    Test 3: deleteBranch
+    	Case 3.2 - Cancel Changes.
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 3
+    
+    
+    User Deletion: Please enter the user you wish to delete
+    1: admin
+    1
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option: 2
+    
+    
+    Action Cancelled.
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+    Test 4: addClient
+    	Case 4.1 - Add Client.
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 1
+    
+    
+    Client Creation: Please enter the Name of the Client.
+    	Client Name: Tanner Bonds
+    
+    	Client Address: 2038 Lee Road
+    
+    	Client Social Security Number: 123456789
+    
+    	Client Employer: Auburn Unniversity
+    
+    	Client Annual Income: 120000
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option:1
+    
+    Client Created.
+    Press any key to continue...
+    
+    
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+    Test 4: addClient
+    	Case 4.2 - Cancel Changes.
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 1
+    
+    
+    Client Creation: Please enter the Name of the Client.
+    	Client Name: Tanner Bonds
+    
+    	Client Address: 2038 Lee Road
+    
+    	Client Social Security Number: 123456789
+    
+    	Client Employer: Auburn University
+    
+    	Client Annual Income: 120000
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option:2
+    
+    
+    Action Cancelled.
+    
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+    Test 5: changePassword
+    	Case 5.1 - Change Password.
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 4
+    
+    
+    Please enter your new Password: 1234
+    
+    
+    Please select the user you wish to change the password of: 
+    1: admin
+    1
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option:1
+    Password Successfully Changed
+    Press any key to continue...
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+   Test 5: changePassword
+    	Case 5.2 - Cancel Changes.
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option: 4
+    
+    
+    Please enter your new Password: 1234
+    
+    
+    Please select the user you wish to change the password of: 
+    1: admin
+    1
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option:2
+    
+    
+    Action Cancelled.
+    
+    
+    *********************************************************
+       Teller Terminal System - System Administrator Access  
+    *********************************************************
+    
+    Press 1 For Client and Account Management.
+    Press 2 To Add a Branch Staff Member.
+    Press 3 To Delete a Branch Staff Member.
+    Press 4 To Change Password.
+    Press 5 To Display Branch Staff.
+    Press 6 To Quit.
+    	 Please choose an option:
+       
+    Test 6: edit
+    	Case 6.1 - Change Information.
+      
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 4
+    
+    
+    Please Select a Client: 
+    1: Tanner Bonds
+    1
+    
+    
+    Displaying Tanner Bonnds's information: 
+    	Address: 038
+    	Social Security: 123456789
+    	Employer: Auburn
+    	Annual Income: 120000
+    
+    
+    Press 1 to Confirm Management of Account.
+    Press 2 to Cancel.
+    	Please Select an Option:1
+    
+    
+    Address: 149 Ferndale St.
+    
+    Social Security: 987654321
+    
+    Employer: Alabama
+    Income: 100000
+    
+    
+    Client Information Updated
+    Press any key to continue...
+    
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+    Test 6: edit
+    	Case 6.2 - Cancel Changes.
+      
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 4
+    
+    
+    Please Select a Client: 
+    1: Tanner Bonds
+    1
+    
+    
+    Displaying Tanner Bonds's information: 
+    	Address: 038 Lee Road
+    	Social Security: 123456789
+    	Employer: Auburn University
+    	Annual Income: 120000
+    
+    
+    Press 1 to Confirm Management of Account.
+    Press 2 to Cancel.
+    	Please Select an Option:2
+    
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 
+       
+           
+
+    Test 7: manageBalance
+    	Case 7.1 - Manage Account & Balance.
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 1
+    
+    
+    Client Creation: Please enter the Name of the Client.
+    	Client Name: Tanner Bonds
+    
+    	Client Address: 2038 Lee Road
+    
+    	Client Social Security Number: 123456789
+    
+    	Client Employer: Auburn University
+    
+    	Client Annual Income: 120000
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option:1
+    
+    Client Created.
+    Press any key to continue...
+    
+    
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 2
+    
+    
+    Account Creation: Please Select the Name of the Client.
+    1: Tanner Bonds
+    1
+    An Account Will Be Created For: Tanner Bonds
+    	Account Number: 5678
+    
+    	Account Type: Checking
+    
+    	Account Balance: 500
+    
+    
+    Press 1 to Confirm & Save Changes
+    Press 2 to Cancel Changes
+    	Please Select an Option:1
+    
+    
+     New Account Confirmed.
+    Press any key to continue...
+    
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 3
+    
+    
+    Select Account To Manage: 
+    1: Tanner Bonds
+    1
+    
+    
+    Press 1 to Confirm Management of Account.
+    Press 2 to Cancel.
+    	Please Select an Option:1
+    
+    
+    Account Management
+    
+    Press 1 to Deposit.
+    Press 2 to Withdraw.
+    Press 3 To Cancel & Return To Menu.
+    	Please Select An Option: 1
+    
+    
+    Deposit Amount: 200
+    
+    
+    Press 1 to Confirm Deposit
+    Press 2 to Cancel Deposit
+    	Please Select an Option:1
+    
+    
+    Account Balance 5678 is: 700
+    
+    
+    Account Management
+    
+    Press 1 to Deposit.
+    Press 2 to Withdraw.
+    Press 3 To Cancel & Return To Menu.
+    	Please Select An Option: 3
+    
+    
+    *****************************************************
+       Teller Terminal System - Client & Account Access  
+    *****************************************************
+    
+    Press 1 To Add a Client
+    Press 2 To Add an Account.
+    Press 3 To Manage an Account.
+    Press 4 To Edit Client Information.
+    Press 5 To Save Account & Client Information.
+    Press 6 To Quit.
+    	 Please choose an option: 
+
+ 
